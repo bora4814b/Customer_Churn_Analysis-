@@ -2,9 +2,7 @@
 
 This project focuses on analyzing customer churn data to identify key factors that influence customer attrition. The dashboard provides actionable insights to help businesses reduce churn and improve customer retention strategies.
 
-The analysis was performed using Power BI with data cleaning, transformation, and visualization techniques.
-
-Here are the **key points** you can write for your **Customer Churn Analysis Dashboard** (short, professional, and resume-friendly):
+The analysis was performed using Power BI with data cleaning, transformation, and visualization techniques
 
 ---
 
